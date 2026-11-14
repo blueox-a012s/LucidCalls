@@ -1,4 +1,4 @@
-# Aegis Echo: Edge-AI Cantonese Scam Defense
+# LucidCalls: Edge-AI Cantonese Scam Defense
 
 Real-time multimodal detection of AI deepfakes and scam scripts for Hong Kong elderly, running fully offline on the edge.
 
